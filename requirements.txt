@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+paramiko
+requests
+psycopg2-binary
+gunicorn     
